@@ -31,3 +31,5 @@ Not
 Eğer LCD ekranınız farklı bir I2C adresindeyse, kodun başında belirtilen adresi değiştirmeniz gerekebilir.
 Kapı zilinizin alacağı kodu ve diğer ayarları (protokol, pulse length vb.) değiştirmek için kodu düzenleyebilirsiniz.
 
+https://www.instagram.com/p/CwgQLqKoV_V/?hl=tr nasıl çalıştığına bakabilirsiniz.
+
